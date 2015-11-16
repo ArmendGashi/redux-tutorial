@@ -1,16 +1,16 @@
 // Tutorial 0 - introduction.js
 
 // Why this tutorial?
-// While trying to learn Redux, I realized that I had accumulated incorrect knowledge about flux through
-// articles I read and personal experience. I don't mean that articles about flux are not well written
-// but I just didn't grasp concepts correctly. In the end, I was just applying documentation of different
-// flux frameworks (Reflux, Flummox, FB Flux) and trying to make them match with the theoretical concept I read
+// While trying to learn Redux, i realized that i had accumulated incorrect knowledge about flux through
+// articles i read and personal experience. I don't mean that articles about flux are not well written
+// but i just didn't grasp concepts correctly. In the end, i was just applying documentation of different
+// flux frameworks (Reflux, Flummox, FB Flux) and trying to make them match with the theoretical concept i read
 // about (actions / actions creators, store, dispatcher, etc).
-// Only when I started using Redux did I realize that flux is more simple than I thought. This is all
+// Only when i started using Redux i did realize that flux is more simple than i thought. This is all
 // thanks to Redux being very well designed and having removed a lot of "anti-boilerplate features" introduced 
-// by other frameworks I tried before. I now feel that Redux is a much better way to learn about flux
-// than many other frameworks. That's why I want now to share with everyone, using my own words,
-// flux concepts that I am starting to grasp, focusing on the use of Redux.
+// by other frameworks i tried before. I now feel that Redux is a much better way to learn about flux
+// than many other frameworks. That's why i want now to share with everyone, using my own words,
+// flux concepts that i am starting to grasp, focusing on the use of Redux.
 
 // You may have seen this diagram representing the famous unidirectional data flow of a flux application:
 
